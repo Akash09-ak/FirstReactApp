@@ -19,13 +19,13 @@ const Seriesdata=[
 
    },
    {
-    imgsrc:"https://light-in-the-attic.s3.amazonaws.com/uploads/release_image/21360/image/tmp_2F1510609752740-chminsdrqzd-41dced5fb079766231ddabab09cb4026_2F780163510126.jpg",
+    imgsrc:"https://wallpapercave.com/wp/wp4431962.jpg",
     title:"Netflix Original Series",
     sname:"Stranger Things",
     link:"https://www.netflix.com/in/title/80057281"   
 },
 {
-    imgsrc:"https://vignette.wikia.nocookie.net/netflix/images/1/14/You_Netflix_Promotional.jpg/revision/latest?cb=20191219171623",
+    imgsrc:"https://wallpapercave.com/wp/wp5180050.jpg",
     title:"Netflix Original Series",
     sname:"You",
     link:"https://www.netflix.com/in/title/80211991"   
