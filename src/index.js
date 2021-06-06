@@ -8,6 +8,7 @@ function mycard(val)
 {
     return(
      <Card 
+        key={value.id)
         imgsrc={val.imgsrc}
         title={val.title}
         sname={val.sname}
